@@ -28,4 +28,4 @@ To run the unit tests for the components, run:
 npm test
 ```
 
-Need help? Check out our docs [here](https://stenciljs.com/docs/my-first-component).
+Check out the Stencil docs [here](https://stenciljs.com/docs/my-first-component).
